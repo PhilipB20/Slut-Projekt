@@ -1,0 +1,13 @@
+C:\Users\philip.bernstrom\Desktop\Gilberts resor\Gilbert\bin\Debug\netcoreapp3.1\Gilbert.exe
+C:\Users\philip.bernstrom\Desktop\Gilberts resor\Gilbert\bin\Debug\netcoreapp3.1\Gilbert.deps.json
+C:\Users\philip.bernstrom\Desktop\Gilberts resor\Gilbert\bin\Debug\netcoreapp3.1\Gilbert.runtimeconfig.json
+C:\Users\philip.bernstrom\Desktop\Gilberts resor\Gilbert\bin\Debug\netcoreapp3.1\Gilbert.runtimeconfig.dev.json
+C:\Users\philip.bernstrom\Desktop\Gilberts resor\Gilbert\bin\Debug\netcoreapp3.1\Gilbert.dll
+C:\Users\philip.bernstrom\Desktop\Gilberts resor\Gilbert\bin\Debug\netcoreapp3.1\Gilbert.pdb
+C:\Users\philip.bernstrom\Desktop\Gilberts resor\Gilbert\obj\Debug\netcoreapp3.1\Gilbert.csprojAssemblyReference.cache
+C:\Users\philip.bernstrom\Desktop\Gilberts resor\Gilbert\obj\Debug\netcoreapp3.1\Gilbert.AssemblyInfoInputs.cache
+C:\Users\philip.bernstrom\Desktop\Gilberts resor\Gilbert\obj\Debug\netcoreapp3.1\Gilbert.AssemblyInfo.cs
+C:\Users\philip.bernstrom\Desktop\Gilberts resor\Gilbert\obj\Debug\netcoreapp3.1\Gilbert.csproj.CoreCompileInputs.cache
+C:\Users\philip.bernstrom\Desktop\Gilberts resor\Gilbert\obj\Debug\netcoreapp3.1\Gilbert.dll
+C:\Users\philip.bernstrom\Desktop\Gilberts resor\Gilbert\obj\Debug\netcoreapp3.1\Gilbert.pdb
+C:\Users\philip.bernstrom\Desktop\Gilberts resor\Gilbert\obj\Debug\netcoreapp3.1\Gilbert.genruntimeconfig.cache
